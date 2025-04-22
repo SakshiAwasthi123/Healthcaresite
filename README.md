@@ -22,3 +22,10 @@ This project is a UI-focused healthcare website with a modern and responsive des
 ## PHPMailer Integration
 
 The project includes PHPMailer setup that allows users to send emails via a contact or appointment form
+
+## Tech Stack
+
+HTML5 / CSS3 / JavaScript
+Bootstrap (for responsive design)
+PHP (for backend email handling)
+PHPMailer (for sending emails)
